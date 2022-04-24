@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="411"
-     inkscape:cy="165.5"
-     inkscape:window-width="3440"
-     inkscape:window-height="1293"
-     inkscape:window-x="0"
-     inkscape:window-y="40"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="legend_1-9" />
+     inkscape:zoom="0.5"
+     inkscape:cx="381"
+     inkscape:cy="505"
+     inkscape:window-width="965"
+     inkscape:window-height="1027"
+     inkscape:window-x="2884"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="axes_1" />
   <defs
      id="defs634952">
     <style
@@ -4804,39 +4804,39 @@
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:14.8825px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:1.11618"
-           x="342.38116"
-           y="664.93378"
+           x="352.99637"
+           y="807.11255"
            id="text689244"><tspan
              sodipodi:role="line"
              id="tspan689242"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8825px;font-family:Sans;-inkscape-font-specification:Sans;stroke-width:1.11618"
-             x="342.38116"
-             y="664.93378">1000 least clonal</tspan></text>
+             x="352.99637"
+             y="807.11255">1000 least clonal</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:14.5866px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.60777"
-           x="-318.78778"
-           y="392.8725"
+           x="-316.82465"
+           y="523.14777"
            id="text728570"><tspan
              sodipodi:role="line"
              id="tspan728568"
              style="stroke-width:0.60777"
-             x="-318.78778"
-             y="392.8725">Upset plot In Vivo vs. </tspan><tspan
+             x="-316.82465"
+             y="523.14777">Upset plot In Vivo vs. </tspan><tspan
              sodipodi:role="line"
              style="stroke-width:0.60777"
-             x="-318.78778"
-             y="411.10574"
+             x="-316.82465"
+             y="541.38104"
              id="tspan105598">Ex Vivo Genes and IgH genes, </tspan><tspan
              sodipodi:role="line"
              style="stroke-width:0.60777"
-             x="-318.78778"
-             y="429.33899"
+             x="-316.82465"
+             y="559.61426"
              id="tspan105602">putatively B cell development related</tspan><tspan
              sodipodi:role="line"
              style="stroke-width:0.60777"
-             x="-318.78778"
-             y="447.57227"
+             x="-316.82465"
+             y="577.84753"
              id="tspan105604">house keeping</tspan></text>
         <g
            id="figure_1-3"
@@ -11598,7 +11598,7 @@
         </g>
         <g
            id="figure_1-57"
-           transform="matrix(1.4882459,0,0,1.4882459,192.72436,806.6913)"
+           transform="matrix(1.4882459,0,0,1.4882459,192.72436,829.015)"
            style="stroke-linecap:butt;stroke-linejoin:round">
           <g
              id="axes_1-69">
@@ -11851,50 +11851,50 @@
               <text
                  xml:space="preserve"
                  style="font-style:italic;font-size:8.82432px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.551519"
-                 x="-49.469433"
-                 y="574.74005"
+                 x="-57.099789"
+                 y="672.32019"
                  id="text106346"><tspan
                    sodipodi:role="line"
                    style="stroke-width:0.551519"
-                   x="-49.469433"
-                   y="574.74005"
+                   x="-57.099789"
+                   y="672.32019"
                    id="tspan106942">transcriptomic comparison of clones on the nearest neighbor graph,</tspan><tspan
                    sodipodi:role="line"
                    style="stroke-width:0.551519"
-                   x="-49.469433"
-                   y="585.77045"
+                   x="-57.099789"
+                   y="683.35059"
                    id="tspan114810"> basically if they have more edges/connections</tspan><tspan
                    sodipodi:role="line"
                    style="stroke-width:0.551519"
-                   x="-49.469433"
-                   y="596.80084"
+                   x="-57.099789"
+                   y="694.38098"
                    id="tspan125249"> to their siblings the score is higher</tspan><tspan
                    sodipodi:role="line"
                    style="stroke-width:0.551519"
-                   x="-49.469433"
-                   y="607.83124"
+                   x="-57.099789"
+                   y="705.41138"
                    id="tspan107810">On the left side I have the modularity score</tspan><tspan
                    sodipodi:role="line"
                    style="stroke-width:0.551519"
-                   x="-49.469433"
-                   y="618.86163"
+                   x="-57.099789"
+                   y="716.44177"
                    id="tspan126577"> (higher means more connected) </tspan><tspan
                    sodipodi:role="line"
                    style="stroke-width:0.551519"
-                   x="-49.469433"
-                   y="629.89203"
+                   x="-57.099789"
+                   y="727.47217"
                    id="tspan111214">on the right side next time I will have another line quantifying</tspan><tspan
                    sodipodi:role="line"
                    style="stroke-width:0.551519"
-                   x="-49.469433"
-                   y="640.92242"
+                   x="-57.099789"
+                   y="738.50256"
                    id="tspan127959"> the total number of signifcant clones</tspan></text>
             </g>
           </g>
         </g>
         <g
            id="axes_1-1"
-           transform="matrix(0.94240328,0,0,0.94240328,-337.31731,92.022536)">
+           transform="matrix(0.94240328,0,0,0.94240328,-337.31731,116.5786)">
           <g
              id="patch_2-9">
             <path
@@ -20596,7 +20596,7 @@
         </g>
         <g
            id="g709911"
-           transform="translate(-3.5374181,-92.404984)">
+           transform="translate(0.38884794,52.928991)">
           <text
              xml:space="preserve"
              style="font-weight:bold;font-size:20.8354px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:1.11618"
@@ -21028,24 +21028,24 @@
            xml:space="preserve"
            style="font-weight:bold;font-size:26.7884px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:1.11618"
            x="-364.73932"
-           y="388.71045"
+           y="486.93436"
            id="text721288"><tspan
              sodipodi:role="line"
              id="tspan721286"
              style="stroke-width:1.11618"
              x="-364.73932"
-             y="388.71045">c</tspan></text>
+             y="486.93436">c</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:26.7884px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:1.11618"
            x="22.823147"
-           y="394.06027"
+           y="483.35471"
            id="text722270"><tspan
              sodipodi:role="line"
              id="tspan722268"
              style="stroke-width:1.11618"
              x="22.823147"
-             y="394.06027">d</tspan></text>
+             y="483.35471">d</tspan></text>
         <rect
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.477413;stroke-opacity:0.993161"
            id="rect44135"
@@ -21053,6 +21053,28 @@
            height="17.610661"
            x="-346.74908"
            y="24.640226" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:26.7884px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:1.11618"
+           x="-287.32278"
+           y="-196.28192"
+           id="text285139"><tspan
+             sodipodi:role="line"
+             id="tspan285137"
+             style="stroke-width:1.11618"
+             x="-287.32278"
+             y="-196.28192">Clone ID</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:26.7884px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:1.11618"
+           x="-139.09152"
+           y="76.81015"
+           id="text285143"><tspan
+             sodipodi:role="line"
+             id="tspan285141"
+             style="stroke-width:1.11618"
+             x="-139.09152"
+             y="76.81015">IGKC</tspan></text>
       </g>
     </g>
   </g>
