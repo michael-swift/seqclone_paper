@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3273709"
-     inkscape:cx="396.27206"
-     inkscape:cy="319.80511"
-     inkscape:window-width="3440"
-     inkscape:window-height="1293"
-     inkscape:window-x="0"
-     inkscape:window-y="40"
-     inkscape:window-maximized="1"
+     inkscape:cx="396.64874"
+     inkscape:cy="462.56853"
+     inkscape:window-width="3416"
+     inkscape:window-height="1379"
+     inkscape:window-x="1932"
+     inkscape:window-y="12"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs59341">
@@ -851,7 +851,7 @@
      id="layer1">
     <g
        id="figure_1-0"
-       transform="matrix(0.35277778,0,0,0.35277778,10.985937,16.373589)">
+       transform="matrix(0.35277778,0,0,0.35277778,10.985937,19.019425)">
       <g
          id="patch_1-7">
         <path
@@ -1991,7 +1991,7 @@
     </g>
     <g
        id="figure_1"
-       transform="matrix(0.35277778,0,0,0.35277778,6.0479789,109.02043)">
+       transform="matrix(0.35277778,0,0,0.35277778,15.572982,106.90375)">
       <g
          id="patch_1">
         <path
@@ -3913,7 +3913,7 @@
          y="106.59118">b.</tspan></text>
     <g
        id="g141407"
-       transform="matrix(0.17337471,0,0,0.17337471,68.028473,99.476964)">
+       transform="matrix(0.17337471,0,0,0.17337471,68.028473,102.12282)">
       <g
          id="figure_1-6"
          transform="matrix(2.0347707,0,0,2.0347707,-378.61141,-406.53562)"
@@ -4688,5 +4688,46 @@
     <g
        id="g141607"
        transform="matrix(0.26458333,0,0,0.26458333,-72.468365,-49.868315)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="46.398273"
+       y="13.468297"
+       id="text3603"><tspan
+         sodipodi:role="line"
+         id="tspan3601"
+         style="stroke-width:0.264583"
+         x="46.398273"
+         y="13.468297">heavily mutated</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="23.237915"
+       y="13.479695"
+       id="text6313"><tspan
+         sodipodi:role="line"
+         id="tspan6311"
+         style="stroke-width:0.264583"
+         x="23.237915"
+         y="13.479695">mutated</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 56.045279,15.076072 41.681206,20.359705"
+       id="path8870" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.217547,15.478574 -1.601256,4.881131"
+       id="path8874" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="56.10928"
+       y="154.21271"
+       id="text12804"><tspan
+         sodipodi:role="line"
+         id="tspan12802"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans;stroke-width:0.264583"
+         x="56.10928"
+         y="154.21271">proportion of cells</tspan></text>
   </g>
 </svg>
