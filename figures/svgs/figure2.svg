@@ -9,6 +9,9 @@
    id="SVGRoot"
    sodipodi:docname="figure2.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/michaelswift/repos/seqclone/figures/figure2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="577.35267"
-     inkscape:cy="1231.78"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="579.12044"
+     inkscape:cy="506.28844"
      inkscape:window-width="1920"
      inkscape:window-height="941"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="figure_1-11" />
   <defs
      id="defs166218">
     <marker
@@ -12131,24 +12134,24 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:0.25px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.0104167"
        x="0.2194912"
-       y="3.0895979"
+       y="2.6937661"
        id="text186551"><tspan
          sodipodi:role="line"
          id="tspan186549"
          style="stroke-width:0.0104167"
          x="0.2194912"
-         y="3.0895979">b</tspan></text>
+         y="2.6937661">c</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:0.25px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.0104167"
        x="0.22925682"
-       y="8.2629118"
+       y="7.25002"
        id="text121194"><tspan
          sodipodi:role="line"
          id="tspan121192"
          style="stroke-width:0.0104167"
          x="0.22925682"
-         y="8.2629118">d</tspan></text>
+         y="7.25002">e</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:0.25px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.0104167"
@@ -12181,7 +12184,7 @@
     </g>
     <g
        id="patch_2-4"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 39.71375,136.93969 h 126.36 V 13.819687 h -126.36 z"
          style="fill:none"
@@ -12189,7 +12192,7 @@
     </g>
     <g
        id="line2d_1-7"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,20.678666 25.272,31.540691 25.272,-5.804098 m 50.544,71.165591"
          clip-path="url(#pb61fc7edee)"
@@ -12243,7 +12246,7 @@
     </g>
     <g
        id="PathCollection_1-3"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs33877">
         <path
@@ -12290,7 +12293,7 @@
     </g>
     <g
        id="line2d_7-07"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,19.416051 25.272,26.386118 25.272,-11.663402 m 50.544,62.898629"
          clip-path="url(#pb61fc7edee)"
@@ -12344,7 +12347,7 @@
     </g>
     <g
        id="PathCollection_2-7"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs33909">
         <path
@@ -12391,7 +12394,7 @@
     </g>
     <g
        id="line2d_13-99"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,22.045644 25.272,37.111035 25.272,-0.789282 25.272,35.487879 0.74191,321.842334"
          clip-path="url(#pb61fc7edee)"
@@ -12445,7 +12448,7 @@
     </g>
     <g
        id="PathCollection_3-9"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          clip-path="url(#pb61fc7edee)"
          id="g33950">
@@ -12493,7 +12496,7 @@
     </g>
     <g
        id="matplotlib.axis_1-65"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          id="xtick_1-63">
         <g
@@ -12910,7 +12913,7 @@
     </g>
     <g
        id="matplotlib.axis_2-1"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          id="ytick_1-2">
         <g
@@ -13412,7 +13415,7 @@
     </g>
     <g
        id="line2d_34-2"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,52.493806 25.272,-4.550917 25.272,9.644601"
          clip-path="url(#pb61fc7edee)"
@@ -13466,7 +13469,7 @@
     </g>
     <g
        id="PathCollection_4-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34291">
         <path
@@ -13513,7 +13516,7 @@
     </g>
     <g
        id="line2d_40-8"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,51.527174 25.272,-13.726049 25.272,9.746925"
          clip-path="url(#pb61fc7edee)"
@@ -13567,7 +13570,7 @@
     </g>
     <g
        id="PathCollection_5-8"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34323">
         <path
@@ -13614,7 +13617,7 @@
     </g>
     <g
        id="line2d_46-5"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,53.462489 25.272,4.458191 25.272,10.099047 25.272,14.844024 0.76647,332.833859"
          clip-path="url(#pb61fc7edee)"
@@ -13668,7 +13671,7 @@
     </g>
     <g
        id="PathCollection_6-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          clip-path="url(#pb61fc7edee)"
          id="g34364">
@@ -13716,7 +13719,7 @@
     </g>
     <g
        id="patch_3-6"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="M 39.71375,136.93969 V 13.819687"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -13724,7 +13727,7 @@
     </g>
     <g
        id="patch_4-2"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="M 166.07375,136.93969 V 13.819687"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -13732,7 +13735,7 @@
     </g>
     <g
        id="patch_5-8"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 39.71375,136.93969 h 126.36"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -13740,7 +13743,7 @@
     </g>
     <g
        id="patch_6-9"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 39.71375,13.819687 h 126.36"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
@@ -13748,7 +13751,7 @@
     </g>
     <g
        id="line2d_52-5"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,91.513304 25.272,-0.417497 25.272,-3.633263 25.272,11.014113 25.272,29.314053"
          clip-path="url(#pb61fc7edee)"
@@ -13802,7 +13805,7 @@
     </g>
     <g
        id="PathCollection_7-7"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34398">
         <path
@@ -13857,7 +13860,7 @@
     </g>
     <g
        id="line2d_58-9"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,79.159223 25.272,-2.725102 25.272,0.773686 25.272,4.276169 25.272,43.120494"
          clip-path="url(#pb61fc7edee)"
@@ -13911,7 +13914,7 @@
     </g>
     <g
        id="PathCollection_8-8"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34432">
         <path
@@ -13966,7 +13969,7 @@
     </g>
     <g
        id="line2d_64-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,116.48566 0.691166,299.21195 m 49.138394,0 0.71444,-309.58154 0.71444,309.58154 m 49.17182,0 0.65774,-284.35429"
          clip-path="url(#pb61fc7edee)"
@@ -14020,7 +14023,7 @@
     </g>
     <g
        id="PathCollection_9-7"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          clip-path="url(#pb61fc7edee)"
          id="g34475">
@@ -14068,7 +14071,7 @@
     </g>
     <g
        id="line2d_70-3"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="M 52.34975,84.798997 53.111903,415.69761"
          clip-path="url(#pb61fc7edee)"
@@ -14122,7 +14125,7 @@
     </g>
     <g
        id="PathCollection_10-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34497">
         <path
@@ -14169,7 +14172,7 @@
     </g>
     <g
        id="line2d_76-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="M 52.34975,82.658891 53.116683,415.69761"
          clip-path="url(#pb61fc7edee)"
@@ -14223,7 +14226,7 @@
     </g>
     <g
        id="PathCollection_11-2"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34529">
         <path
@@ -14270,7 +14273,7 @@
     </g>
     <g
        id="line2d_82-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="M 52.34975,87.239832 53.106449,415.69761"
          clip-path="url(#pb61fc7edee)"
@@ -14324,7 +14327,7 @@
     </g>
     <g
        id="PathCollection_12-2"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          clip-path="url(#pb61fc7edee)"
          id="g34568">
@@ -14364,7 +14367,7 @@
     </g>
     <g
        id="line2d_88-2"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,75.472089 25.272,-51.697499 25.272,10.487234 25.272,2.055559 0.86998,379.380227"
          clip-path="url(#pb61fc7edee)"
@@ -14418,7 +14421,7 @@
     </g>
     <g
        id="PathCollection_13-4"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34590">
         <path
@@ -14473,7 +14476,7 @@
     </g>
     <g
        id="line2d_94-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,70.21039 25.272,-48.071901 25.272,9.36079 25.272,0.06871 0.88049,384.129621"
          clip-path="url(#pb61fc7edee)"
@@ -14527,7 +14530,7 @@
     </g>
     <g
        id="PathCollection_14-2"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34624">
         <path
@@ -14582,7 +14585,7 @@
     </g>
     <g
        id="line2d_100-7"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,81.807513 25.272,-56.426625 25.272,11.493286 25.272,3.658981 0.86064,375.164455"
          clip-path="url(#pb61fc7edee)"
@@ -14636,7 +14639,7 @@
     </g>
     <g
        id="PathCollection_15-2"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          clip-path="url(#pb61fc7edee)"
          id="g34667">
@@ -14684,7 +14687,7 @@
     </g>
     <g
        id="patch_7-8"
-       transform="matrix(0.01388889,0,0,0.00460225,0.85855599,3.0607178)">
+       transform="matrix(0.01388889,0,0,0.00460225,0.85855599,2.6648851)">
       <path
          d="M 171.17695,414.69761 H 372.596 q 2.576,0 2.576,-2.576 V 16.395688 q 0,-2.576001 -2.576,-2.576001 H 171.17695 q -2.576,0 -2.576,2.576001 V 412.12161 q 0,2.576 2.576,2.576 z"
          style="opacity:0.8;fill:#ffffff;stroke:#cccccc;stroke-linejoin:miter"
@@ -14692,7 +14695,7 @@
     </g>
     <g
        id="PathCollection_16-6"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <defs
          id="defs34674">
         <path
@@ -14714,7 +14717,7 @@
     </g>
     <g
        id="text_13-6"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <!-- Naive B cell -->
       <g
          transform="matrix(0.1288,0,0,-0.1288,185.34495,28.758475)"
@@ -14822,7 +14825,7 @@
     </g>
     <g
        id="PathCollection_17-9"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <defs
          id="defs34714">
         <path
@@ -14844,7 +14847,7 @@
     </g>
     <g
        id="text_14-4"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <!-- Non-Switched Memory B cell -->
       <g
          transform="matrix(0.1288,0,0,-0.1288,185.34495,47.6639)"
@@ -15054,7 +15057,7 @@
     </g>
     <g
        id="PathCollection_18-8"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <defs
          id="defs34783">
         <path
@@ -15076,7 +15079,7 @@
     </g>
     <g
        id="text_15-6"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <!-- Plasma B cell -->
       <g
          transform="matrix(0.1288,0,0,-0.1288,185.34495,66.569325)"
@@ -15183,7 +15186,7 @@
     </g>
     <g
        id="PathCollection_19-0"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <defs
          id="defs34823">
         <path
@@ -15205,7 +15208,7 @@
     </g>
     <g
        id="text_16-9"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <!-- Switched Memory B cell -->
       <g
          transform="matrix(0.1288,0,0,-0.1288,185.34495,85.47475)"
@@ -15368,7 +15371,7 @@
     </g>
     <g
        id="PathCollection_20-4"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <defs
          id="defs34878">
         <path
@@ -15390,7 +15393,7 @@
     </g>
     <g
        id="text_17"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <!-- iv GC B cell -->
       <g
          transform="matrix(0.1288,0,0,-0.1288,185.34495,104.38017)"
@@ -15483,7 +15486,7 @@
     </g>
     <g
        id="PathCollection_21"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <defs
          id="defs34913">
         <path
@@ -15505,7 +15508,7 @@
     </g>
     <g
        id="text_18-5"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <!-- iv Plasma B cell -->
       <g
          transform="matrix(0.1288,0,0,-0.1288,185.34495,123.2856)"
@@ -15626,7 +15629,7 @@
     </g>
     <g
        id="PathCollection_22"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <defs
          id="defs34956">
         <path
@@ -15648,7 +15651,7 @@
     </g>
     <g
        id="text_19-4"
-       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.9046111)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.89158912,2.5087784)">
       <!-- iv Plasmablast -->
       <g
          transform="matrix(0.1288,0,0,-0.1288,185.34495,142.19102)"
@@ -15762,7 +15765,7 @@
     </g>
     <g
        id="PathCollection_23"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs34998">
         <path
@@ -15784,7 +15787,7 @@
     </g>
     <g
        id="PathCollection_24"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs35033">
         <path
@@ -15961,7 +15964,7 @@
     </g>
     <g
        id="PathCollection_33"
-       transform="matrix(0.01388889,0,0,0.01388889,0.80825573,6.3629389)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.80825573,5.4462737)">
       <g
          id="g35432">
         <use
@@ -15976,7 +15979,7 @@
     </g>
     <g
        id="PathCollection_34"
-       transform="matrix(0.01388889,0,0,0.01388889,0.80825573,6.3629389)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.80825573,5.4462737)">
       <g
          id="g35484">
         <use
@@ -16021,7 +16024,7 @@
     </g>
     <g
        id="line2d_106"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,105.19105 25.272,-38.092205 25.272,2.638674 25.272,7.351027"
          clip-path="url(#pb61fc7edee)"
@@ -16075,7 +16078,7 @@
     </g>
     <g
        id="PathCollection_37"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs35610">
         <path
@@ -16122,7 +16125,7 @@
     </g>
     <g
        id="line2d_112"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,94.451773 25.272,-30.903523 25.272,3.258027 25.272,3.754672 25.272,-5.118353"
          clip-path="url(#pb61fc7edee)"
@@ -16176,7 +16179,7 @@
     </g>
     <g
        id="PathCollection_38"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs35642">
         <path
@@ -16231,7 +16234,7 @@
     </g>
     <g
        id="line2d_118"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,123.9436 25.272,-53.264025 25.272,2.66006 25.272,11.194862 0.76274,331.163113"
          clip-path="url(#pb61fc7edee)"
@@ -16285,7 +16288,7 @@
     </g>
     <g
        id="PathCollection_39"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          clip-path="url(#pb61fc7edee)"
          id="g35685">
@@ -16333,7 +16336,7 @@
     </g>
     <g
        id="line2d_124"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,78.352747 25.272,-10.650639 25.272,6.255268 25.272,6.004351 0.77295,335.735883"
          clip-path="url(#pb61fc7edee)"
@@ -16387,7 +16390,7 @@
     </g>
     <g
        id="PathCollection_40"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs35707">
         <path
@@ -16442,7 +16445,7 @@
     </g>
     <g
        id="line2d_130"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 52.34975,57.106126 25.272,9.242586 25.272,2.419364 25.272,4.860381 0.78708,342.069153"
          clip-path="url(#pb61fc7edee)"
@@ -16496,7 +16499,7 @@
     </g>
     <g
        id="PathCollection_41"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <defs
          id="defs35741">
         <path
@@ -16551,7 +16554,7 @@
     </g>
     <g
        id="line2d_136"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <path
          d="m 76.824588,415.69761 0.797162,-346.593532 25.272,10.458006 25.272,8.421454 0.75504,327.714072"
          clip-path="url(#pb61fc7edee)"
@@ -16605,7 +16608,7 @@
     </g>
     <g
        id="PathCollection_42"
-       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.9879443)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.76658904,2.5921116)">
       <g
          clip-path="url(#pb61fc7edee)"
          id="g35784">
@@ -16654,7 +16657,7 @@
     <circle
        style="fill:#d4dc80;fill-opacity:0.509804;stroke:#000000;stroke-width:0.03125;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle251603"
-       cx="10.023045"
+       cx="9.1063919"
        cy="-7.3184404"
        r="0.16218352"
        transform="rotate(90)" />
@@ -16662,17 +16665,17 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:0.166667px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.00774478"
        x="7.0552216"
-       y="10.443567"
+       y="9.5269146"
        id="text251611"><tspan
          sodipodi:role="line"
          id="tspan251609"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;font-family:Sans;-inkscape-font-specification:Sans;stroke-width:0.00774478"
          x="7.0552216"
-         y="10.443567">iv GC B cell</tspan></text>
+         y="9.5269146">iv GC B cell</tspan></text>
     <circle
        style="fill:#0e564a;fill-opacity:0.705758;stroke:#000000;stroke-width:0.0345313;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle251617"
-       cx="8.6309767"
+       cx="7.7143173"
        cy="-7.3236098"
        r="0.16218352"
        transform="rotate(90)" />
@@ -16680,35 +16683,35 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.158548px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.00736749;stroke-linecap:butt;stroke-linejoin:round"
        x="5.462625"
-       y="8.4174242"
+       y="7.5007601"
        id="text251625"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.158548px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.00736749"
          x="5.462625"
-         y="8.4174242"
+         y="7.5007601"
          id="tspan251623">Memory cell</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.00774478;stroke-linecap:butt;stroke-linejoin:round"
        x="6.8947291"
-       y="8.4196739"
+       y="7.5030098"
        id="text251629"><tspan
          sodipodi:role="line"
          id="tspan251627"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.00774478"
          x="6.8947291"
-         y="8.4196739">Naive cell</tspan></text>
+         y="7.5030098">Naive cell</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;line-height:1.25;font-family:Sans;-inkscape-font-specification:Sans;font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.00774478"
        x="5.1617832"
-       y="10.448997"
+       y="9.5323448"
        id="text251633"><tspan
          sodipodi:role="line"
          id="tspan251631"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;font-family:Sans;-inkscape-font-specification:Sans;stroke-width:0.00774478"
          x="5.1617832"
-         y="10.448997">iv Plasmablast / cell</tspan></text>
+         y="9.5323448">iv Plasmablast / cell</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:0.25px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.0104167"
@@ -17333,7 +17336,7 @@
        transform="matrix(0.00925148,0,0,0.00925148,0.29611203,4.3228077)" />
     <g
        id="figure_1-8"
-       transform="matrix(0.01388889,0,0,0.01388889,0.66137231,8.1726375)">
+       transform="matrix(0.01388889,0,0,0.01388889,0.66137231,7.0476393)">
       <g
          id="patch_1-7">
         <path
@@ -19961,35 +19964,35 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:0.25px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.0104167"
        x="4.9717798"
-       y="8.2166157"
+       y="7.2999468"
        id="text185455"><tspan
          sodipodi:role="line"
          id="tspan185453"
          style="stroke-width:0.0104167"
          x="4.9717798"
-         y="8.2166157">e</tspan></text>
+         y="7.2999468">f</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.00736749;stroke-linecap:butt;stroke-linejoin:round"
        x="5.9762073"
-       y="8.1594601"
+       y="7.2427897"
        id="text185561"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.166667px;font-family:Sans;-inkscape-font-specification:'Sans Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.00736749"
          x="5.9762073"
-         y="8.1594601"
+         y="7.2427897"
          id="tspan185559">Celltype Bias</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:0.25px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.0104167"
        x="0.2297451"
-       y="6.1181245"
+       y="5.3681188"
        id="text225510"><tspan
          sodipodi:role="line"
          id="tspan225508"
          style="stroke-width:0.0104167"
          x="0.2297451"
-         y="6.1181245">c</tspan></text>
+         y="5.3681188">d</tspan></text>
     <g
        id="figure_1-1"
        transform="matrix(0.01388889,0,0,0.01388889,0.47193731,0.28893858)">
@@ -23064,22 +23067,22 @@
          id="rect21156"
          width="123.92168"
          height="24.776133"
-         x="207.34642"
+         x="180.34642"
          y="74.741951"
          transform="rotate(90)" />
       <rect
-         style="opacity:1;fill:#7c7c7c;fill-opacity:0.13874586;stroke:#000000;stroke-width:1.361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#7c7c7c;fill-opacity:0.138746;stroke:#000000;stroke-width:1.361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect21158"
          width="122.79006"
          height="24.776133"
-         x="581.77588"
+         x="500.77588"
          y="82.317558"
          transform="rotate(90)" />
     </g>
     <g
        id="g278875"
        inkscape:label="stacked_violin_B_cells_cytokines"
-       transform="matrix(0.01388889,0,0,-0.01388889,0.82632095,7.5975798)">
+       transform="matrix(0.01388889,0,0,-0.01388889,0.82632095,6.9934141)">
       <g
          id="g278877">
         <g
@@ -23723,27 +23726,27 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0306209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 7.2536416,8.804344 6.0312436,9.8770738"
+       d="M 7.2536416,7.8876788 6.0312436,8.9604086"
        id="path48033" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.118663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 7.3134895,8.8151889 7.3023022,9.8570822"
+       d="M 7.3134895,7.8985237 7.3023022,8.940417"
        id="path48197" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle48316"
-       cx="10.043878"
+       cx="9.1272249"
        cy="-6.0039601"
        r="0.16218352"
        transform="rotate(90)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.036062;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 6.0412315,8.8115756 7.2646122,9.850785"
+       d="M 6.0412315,7.8949104 7.2646122,8.9341198"
        id="path48318"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0957645;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 5.9778417,8.827567 0.026683,1.0458114"
+       d="m 5.9778417,7.9109018 0.026683,1.0458114"
        id="path48320" />
     <path
        sodipodi:type="star"
@@ -23760,7 +23763,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 461.38467,925.21815 -38.30597,-0.0774 19.22002,-33.13524 z"
-       transform="matrix(-0.00581693,1.5384918e-4,-4.8968363e-5,-0.00707207,8.6063911,15.639341)"
+       transform="matrix(-0.00581693,1.5384918e-4,-4.8968363e-5,-0.00707207,8.6063911,14.722689)"
        inkscape:transform-center-x="0.00040841403"
        inkscape:transform-center-y="0.037769818" />
     <path
@@ -23778,7 +23781,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 461.38467,925.21815 -38.30597,-0.0774 19.22002,-33.13524 z"
-       transform="matrix(-0.00436079,-0.00385277,0.00478512,-0.00520761,3.9331297,16.0172)"
+       transform="matrix(-0.00436079,-0.00385277,0.00478512,-0.00520761,3.9331297,15.100548)"
        inkscape:transform-center-x="-0.015162245"
        inkscape:transform-center-y="-0.008243439" />
     <path
@@ -23796,7 +23799,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 461.38467,925.21815 -38.30597,-0.0774 19.22002,-33.13524 z"
-       transform="matrix(-0.00370014,0.00449102,-0.00536948,-0.00460274,13.477536,11.786625)"
+       transform="matrix(-0.00370014,0.00449102,-0.00536948,-0.00460274,13.477536,10.869973)"
        inkscape:transform-center-x="0.0058868857"
        inkscape:transform-center-y="-0.017417488" />
     <path
@@ -23814,16 +23817,27 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 461.38467,925.21815 -38.30597,-0.0774 19.22002,-33.13524 z"
-       transform="matrix(-0.00581894,1.253236e-5,1.2278788e-4,-0.00707117,9.7712824,15.698361)"
+       transform="matrix(-0.00581894,1.253236e-5,1.2278788e-4,-0.00707117,9.7712824,14.781709)"
        inkscape:transform-center-x="-0.0014870449"
        inkscape:transform-center-y="0.039083684" />
     <circle
        style="fill:#ff5733;fill-opacity:0.691516;stroke:#000000;stroke-width:0.0345313;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle251619"
-       cx="8.6309767"
+       cx="7.7143173"
        cy="-5.9641385"
        r="0.16218352"
        transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:0.25px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.0104167"
+       x="3.6943316"
+       y="0.31341738"
+       id="text587597"><tspan
+         sodipodi:role="line"
+         id="tspan587595"
+         style="stroke-width:0.0104167"
+         x="3.6943316"
+         y="0.31341738">b</tspan></text>
   </g>
   <script
      id="mesh_polyfill"
