@@ -9,6 +9,9 @@
    id="svg59344"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="figureS2.svg"
+   inkscape:export-filename="/home/michaelswift/repos/seqclone/figures/svgs/figureS2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.3273709"
-     inkscape:cx="396.64874"
-     inkscape:cy="630.5698"
-     inkscape:window-width="3840"
-     inkscape:window-height="2123"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:zoom="0.66368545"
+     inkscape:cx="370.65752"
+     inkscape:cy="628.30969"
+     inkscape:window-width="1920"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -2099,7 +2102,7 @@
     </g>
     <g
        id="figure_1"
-       transform="matrix(0.35277778,0,0,0.35277778,15.572982,106.90375)">
+       transform="matrix(0.35277778,0,0,0.35277778,16.78971,79.981966)">
       <g
          id="patch_1">
         <path
@@ -4011,14 +4014,14 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
-       x="4.5451679"
-       y="106.59118"
+       x="6.2714405"
+       y="79.603653"
        id="text70020"><tspan
          sodipodi:role="line"
          id="tspan70018"
          style="font-style:normal;font-weight:bold;stroke-width:0.264583"
-         x="4.5451679"
-         y="106.59118">b.</tspan></text>
+         x="6.2714405"
+         y="79.603653">b.</tspan></text>
     <g
        id="g141407"
        transform="matrix(0.17337471,0,0,0.17337471,68.028473,102.12282)">
@@ -4829,17 +4832,17 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
-       x="56.10928"
-       y="154.21271"
+       x="45.418934"
+       y="139.52524"
        id="text12804"><tspan
          sodipodi:role="line"
          id="tspan12802"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans;stroke-width:0.264583"
-         x="56.10928"
-         y="154.21271">proportion of cells</tspan></text>
+         x="45.418934"
+         y="139.52524">proportion of cells</tspan></text>
     <g
        id="figure_1-6-3"
-       transform="matrix(0.35277778,0,0,0.35277778,12.327265,195.47207)"
+       transform="matrix(0.35277778,0,0,0.35277778,109.28585,76.68954)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_1-6-6">
@@ -5343,13 +5346,44 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
-       x="4.5451679"
-       y="195.49033"
+       x="105.73711"
+       y="79.603653"
        id="text15788"><tspan
          sodipodi:role="line"
          id="tspan15786"
          style="font-style:normal;font-weight:bold;stroke-width:0.264583"
-         x="4.5451679"
-         y="195.49033">c.</tspan></text>
+         x="105.73711"
+         y="79.603653">d.</tspan></text>
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="100"
+       width="52.946442"
+       height="50.39201"
+       xlink:href="../../../seqclone3/figures/figureS2/Day%208_ecdf_mutation.svg"
+       id="image22182"
+       x="96.831886"
+       y="162.4245"
+       sodipodi:absref="/home/michaelswift/repos/seqclone3/figures/figureS2/Day 8_ecdf_mutation.svg" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="100"
+       width="52.946442"
+       height="50.39201"
+       xlink:href="../../../seqclone3/figures/figureS2/Day%200_ecdf_mutation.svg"
+       id="image24395"
+       x="15.250851"
+       y="162.4245"
+       sodipodi:absref="/home/michaelswift/repos/seqclone3/figures/figureS2/Day 0_ecdf_mutation.svg" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="6.4450731"
+       y="165.26074"
+       id="text26085"><tspan
+         sodipodi:role="line"
+         id="tspan26083"
+         style="font-style:normal;font-weight:bold;stroke-width:0.264583"
+         x="6.4450731"
+         y="165.26074">c.</tspan></text>
   </g>
 </svg>
